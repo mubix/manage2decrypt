@@ -2,6 +2,8 @@
 
 ManageEngine has a huge host of products. Many of them store credentials for one reason or another. This repo is here to help decrypt the stored credentials from those products.
 
+**Update**: If you run into newer versions of MangeEngine check out this blog post: https://www.shielder.com/blog/2022/09/how-to-decrypt-manage-engine-pmp-passwords-for-fun-and-domain-admin-a-red-teaming-tale/ by [@ipSlav](https://twitter.com/ipSlav/status/1566805716563906560), [@smaury92](https://twitter.com/smaury92), and [@Th3Zer0](https://twitter.com/Th3Zer0)
+
 ## DecryptField.py
 
 Dependencies:
